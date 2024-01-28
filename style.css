@@ -1,0 +1,89 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:weight@100;200;300;400;500;600;700;800&display=swap");
+
+
+       body{
+        background-color:#545454;
+        font-family: "Poppins", sans-serif;
+  
+       }
+
+       .container{
+        height: 100vh;
+       }
+
+       .card{
+
+        width: 450px;
+        border: none;
+        border-radius: 15px;
+        padding: 8px;
+        background-color: #fff;
+        position: relative;
+        height: 620px;
+       }
+
+       .upper{
+
+        height: 100px;
+
+       }
+
+       .upper img{
+
+        width: 100%;
+   
+
+       }
+
+       .user{
+        position: relative;
+       }
+
+       .profile img{
+
+        
+        height: 80px;
+        width: 80px;
+        /* margin-top:2px; */
+
+       
+       }
+
+       .profile{
+
+        position: absolute;
+        top:-40px;
+        left: 38%;
+        height: 90px;
+        width: 90px;
+        border:5px solid #fff;
+        border-radius: 50%;
+
+       }
+
+   
+
+       .stats span{
+
+        font-size: 29px;
+       }
+       .follow{
+
+        border-radius: 15px;
+        padding-left: 20px;
+        padding-right: 20px;
+       background-color: aqua;
+       }
+       .social{
+        color: aqua;
+        font-size: 40px;
+       }
+  
+       i{
+        font-size: 30px;
+        border-radius: 50px;
+        border: 2px solid gainsboro; 
+       }
+
+       
+          
